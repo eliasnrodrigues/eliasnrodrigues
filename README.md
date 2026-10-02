@@ -1,56 +1,71 @@
-<div align="center">
+<p align="center">
+  <img src="assets/profile-banner.svg" width="100%" alt="Elias Rodrigues — Dados, automação e desenvolvimento web. Tecnologia com propósito." />
+</p>
 
-# Elias Rodrigues
+<p align="center">
+  <a href="https://eliasnrodrigues.github.io/contato/"><b>PORTFÓLIO & CONTATO ↗</b></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/elias-rodrigues-a466811a9/">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="https://www.instagram.com/eliasnrodrigues/">Instagram</a>
+  &nbsp; · &nbsp;
+  <a href="https://wa.me/5511976649026">WhatsApp</a>
+</p>
 
-**DADOS · AUTOMAÇÃO · DESENVOLVIMENTO WEB**
+<br>
 
-Soluções práticas para conectar processos, informação e pessoas.
+### 01 / Sobre mim
 
-[Portfólio & contato](https://eliasnrodrigues.github.io/contato/) · [LinkedIn](https://www.linkedin.com/in/elias-rodrigues-a466811a9/) · [Instagram](https://www.instagram.com/eliasnrodrigues/)
+**Tecnologia para resolver problemas reais.**
 
-</div>
+Sou Elias Rodrigues, também conhecido como **SAILE**. Minha experiência em logística hospitalar me aproximou de desafios de estoque, compras e acompanhamento de operações. Hoje, aplico essa visão prática no desenvolvimento de painéis, aplicativos e automações.
+
+Trabalho com **Power BI, Power Apps e Power Automate** e desenvolvo páginas com **HTML, CSS e JavaScript**. A música também faz parte dessa trajetória: atuo com áudio ao vivo e produção musical, combinando organização técnica e criatividade.
+
+<br>
+
+### 02 / Frentes de atuação
+
+| Dados & indicadores | Aplicativos & automação | Desenvolvimento web |
+| :--- | :--- | :--- |
+| Transformar informações operacionais em painéis úteis para a tomada de decisão. | Organizar solicitações e movimentações, conectando etapas de um processo. | Criar páginas responsivas para apresentar projetos e facilitar conexões. |
+| **Power BI · DAX · Power Query** | **Power Apps · Power Automate · SharePoint** | **HTML · CSS · JavaScript** |
+
+**Também utilizo:** Excel, Office Scripts, Git e GitHub.  
+**Estudos e prática:** SQL e Python.
+
+<br>
+
+### 03 / Projeto em destaque
+
+<a href="https://eliasnrodrigues.github.io/contato/">
+  <img src="assets/project-contato.svg" width="100%" alt="Contato: página pessoal responsiva com portfólio, redes profissionais e temas dia e noite. Abrir o site." />
+</a>
+
+**[Contato · Página pessoal](https://github.com/eliasnrodrigues/contato)**
+
+Portfólio de áudio, redes profissionais e WhatsApp em um único lugar. Temas claro e escuro com fotos sincronizadas, layout responsivo e seleção de serviços para direcionar o contato.
+
+[Acessar o site ↗](https://eliasnrodrigues.github.io/contato/) &nbsp; · &nbsp; [Ver código e documentação ↗](https://github.com/eliasnrodrigues/contato)
+
+<br>
+
+### 04 / Além do código
+
+**SAILE — áudio ao vivo & produção musical.**
+
+Mixagem para transmissões ao vivo, edição de áudio e produção musical. Um trabalho em que escuta, precisão e colaboração caminham juntas.
+
+[Ouça meu portfólio ↗](https://youtube.com/playlist?list=PL7TyXdBTDNoXpVn2feaHuZI7WtAUNh9y8)
+
+<br>
 
 ---
 
-### Sobre mim
+<p align="center">
+  <b>Tem uma ideia ou um projeto em mente?</b><br>
+  Vamos conversar sobre tecnologia, processos ou música.<br><br>
+  <a href="https://wa.me/5511976649026"><b>Fale comigo no WhatsApp ↗</b></a>
+</p>
 
-Sou Elias Rodrigues, também conhecido como **SAILE**. Minha experiência em logística hospitalar me aproximou de problemas reais de estoque, compras e acompanhamento de operações — e da tecnologia como ferramenta para resolvê-los.
-
-Desenvolvo soluções com **Power BI, Power Apps e Power Automate**, além de páginas web com HTML, CSS e JavaScript. Também atuo com áudio ao vivo e produção musical, unindo organização técnica e criatividade.
-
-### O que construo
-
-- **Dados e indicadores:** painéis para acompanhar estoques, compras e rotinas operacionais.
-- **Aplicativos e automações:** soluções para solicitações, movimentação de materiais e acompanhamento de processos.
-- **Experiências web:** páginas responsivas para apresentar projetos e facilitar conexões.
-
-### Tecnologias e ferramentas
-
-| Área | Ferramentas |
-| --- | --- |
-| Dados & BI | Power BI, DAX, Power Query, Excel |
-| Aplicativos & automação | Power Apps, Power Automate, SharePoint, Office Scripts |
-| Desenvolvimento web | HTML, CSS, JavaScript, Git e GitHub |
-| Estudos e prática | SQL, Python |
-
-### Projeto em destaque
-
-#### [Página de contato e portfólio](https://eliasnrodrigues.github.io/contato/)
-
-Uma página responsiva que reúne meu portfólio, redes profissionais e contato por WhatsApp. Possui temas claro e escuro, fotos sincronizadas com o tema e opções de contato por área de atuação.
-
-**HTML · CSS · JavaScript · GitHub Pages**
-
-[Abrir o site →](https://eliasnrodrigues.github.io/contato/) · [Explorar o código →](https://github.com/eliasnrodrigues/contato)
-
-### Além do código
-
-A música também faz parte do meu trabalho. Atuo com mixagem de áudio ao vivo, edição de áudio e produção musical como **SAILE**.
-
-[Ouça meu portfólio de áudio →](https://youtube.com/playlist?list=PL7TyXdBTDNoXpVn2feaHuZI7WtAUNh9y8)
-
-### Vamos conversar?
-
-Tenho interesse em projetos que combinem tecnologia, melhoria de processos e criatividade.
-
-[WhatsApp](https://wa.me/5511976649026) · [LinkedIn](https://www.linkedin.com/in/elias-rodrigues-a466811a9/) · [Todos os meus links](https://eliasnrodrigues.github.io/contato/)
+<p align="center"><sub>ELIAS RODRIGUES · TÉCNICA, CRIATIVIDADE E PROPÓSITO.</sub></p>
