@@ -35,7 +35,7 @@ Desenvolvo soluções com **Power BI, Power Apps e Power Automate**, além de p�
 
 ### Projeto em destaque
 
-#### [Página de contato e portfólio](https://github.com/eliasnrodrigues/contato)
+#### [Página de contato e portfólio](https://eliasnrodrigues.github.io/contato/)
 
 Uma página responsiva que reúne meu portfólio, redes profissionais e contato por WhatsApp. Possui temas claro e escuro, fotos sincronizadas com o tema e opções de contato por área de atuação.
 
