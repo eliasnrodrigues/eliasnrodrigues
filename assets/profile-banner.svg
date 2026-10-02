@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">Elias Rodrigues — Dados, automação e desenvolvimento web</title><desc id="desc">Banner azul profundo com tipografia clara, linhas geométricas e detalhes dourados.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1927"/><stop offset="1" stop-color="#162d3e"/></linearGradient><pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#91b2bf" stroke-opacity=".065"/></pattern><clipPath id="clip"><rect width="1200" height="400" rx="22"/></clipPath></defs>
+<g clip-path="url(#clip)"><rect width="1200" height="400" fill="url(#bg)"/><rect width="1200" height="400" fill="url(#grid)"/>
+<circle cx="1040" cy="174" r="224" fill="none" stroke="#81b6bb" stroke-opacity=".12"/><circle cx="1040" cy="174" r="165" fill="none" stroke="#81b6bb" stroke-opacity=".18"/><circle cx="1040" cy="174" r="105" fill="none" stroke="#c6ab76" stroke-opacity=".28"/>
+<path d="M835 228h49l23-68 28 121 29-170 29 143 24-71 22 45h97" fill="none" stroke="#83b7b4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1136" cy="228" r="4" fill="#c6ab76"/><circle cx="831" cy="95" r="5" fill="#c6ab76"/>
+<path d="M58 62h36" stroke="#c6ab76" stroke-width="3"/>
+<g font-family="Arial, Helvetica, sans-serif"><text x="107" y="67" font-size="13" letter-spacing="3.5" fill="#c6ab76">TECNOLOGIA COM PROPÓSITO</text>
+<text x="55" y="163" font-size="66" font-weight="700" letter-spacing="-2.8" fill="#f3f4ef">Elias Rodrigues<tspan fill="#c6ab76">.</tspan></text>
+<text x="59" y="211" font-size="19" fill="#aec2ca">Dados. Automação. Experiências digitais.</text>
+<text x="59" y="246" font-size="17" fill="#aec2ca">Do processo à solução, com técnica e criatividade.</text>
+<path d="M59 298H1141" stroke="#aec2ca" stroke-opacity=".2"/>
+<text x="59" y="344" font-size="12" letter-spacing="2.8" fill="#e4e7e2">POWER PLATFORM / WEB / ÁUDIO</text>
+<text x="1140" y="344" text-anchor="end" font-size="12" letter-spacing="2" fill="#c6ab76">ELIASNRODRIGUES · SAILE</text></g></g></svg>
